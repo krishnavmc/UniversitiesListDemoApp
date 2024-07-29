@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  UniversitiesListDemoApp
+
+  Created by Kondamoori, Krishna on 28/07/2024.
+  
+*/
+
+"success" = "Success";
+"failed" = "Failed";
+"ok" = "Ok";
+"Cancel" = "Cancel";
+"errorMessageFetchUniversities" = "Unable to fetch universities";
+"universitiesListViewTitle" = "Universities List";
+
